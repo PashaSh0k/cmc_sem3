@@ -1,0 +1,15 @@
+     1	итого 108
+     2	drwxrwxr-x  2 shok shok  4096 дек 18 15:51 .
+     3	drwxr-xr-x 24 shok shok  4096 дек 13 18:12 ..
+     4	-rw-rw-r--  1 shok shok   304 дек 18 12:47 a
+     5	-rw-rw-r--  1 shok shok     0 дек 18 15:51 cat
+     6	-rw-rw-r--  1 shok shok     0 дек 18 15:53 f
+     7	-rw-rw-r--  1 shok shok    54 дек 18 15:49 ls
+     8	-rw-rw-r--  1 shok shok 10745 дек 18 15:35 main.c
+     9	-rw-rw-r--  1 shok shok   456 дек 18 15:46 ps
+    10	-rwxrwxr-x  1 shok shok 28088 дек 18 15:35 task
+    11	-rwxrwxr-x  1 shok shok 19632 дек 10 19:05 test
+    12	-rw-rw-r--  1 shok shok     0 дек 12 16:54 test0
+    13	-rwxrwxr-x  1 shok shok 19640 дек 10 18:40 test1
+    14	-rw-rw-r--  1 shok shok   269 дек 10 18:40 test1.c
+    15	-rw-rw-r--  1 shok shok   271 дек 10 18:38 test.c

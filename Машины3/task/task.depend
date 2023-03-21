@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634578586 source:c:\users\ПАША\desktop\ВМК\прога\Машины3\task\main.c
+	<stdio.h>
+	<stdlib.h>
+
